@@ -1,6 +1,6 @@
 The current version of the DLMtool package is available for download from [CRAN](https://CRAN.R-project.org/package=DLMtool).
 
-## DLMtool 5.4.999 - development version
+## DLMtool 5.4.3 
 
 ### Major changes
 - Age accounting now starts from age-0 instead of age-1
